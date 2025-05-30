@@ -6,8 +6,8 @@ This script fetches and extracts the main content from the [Hetzner Cloud Docume
 
 ## 📁 Project Files
 
-- `extract_hetzner_homepage.py` – The main Python script.
-- `hetzner_homepage.md` – Output Markdown file generated from the homepage.
+- `api_doc_extractor.py` – The main Python script.
+- `hetzner_cloud_api.md` – Output Markdown file generated from the homepage.
 
 ---
 
@@ -26,8 +26,8 @@ Follow these steps to set up a virtual environment, install dependencies, and ru
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/hetzner-docs-extractor.git
-cd hetzner-docs-extractor
+git clone https://github.com/smrezvani/Hetzner-Cloud-API-Document.git
+cd Hetzner-Cloud-API-Document
 ```
 
 ### 2. Create a Virtual Environment
